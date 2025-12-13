@@ -30,15 +30,13 @@ I'm particularly interested in **applied statistics, predictive modeling, and ex
 </p>
 
 **Skills:** Statistical Analysis • Hypothesis Testing (A/B) • EDA • Data Visualization • Regression • Forecasting • Experimental Design • Research Methodology
-
 ### 📂 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[1](link-to-repo)** |  | `|
-| **[2](link-to-repo)** || ` |
-| **[2](link-to-repo)** | | ` |
-
+| **[EEG Anomaly Detection](https://github.com/nekihlep/eeg-anomaly-detection)** | ML pipeline for detecting unusual patterns in brain activity signals using spectral analysis and unsupervised learning. | `Python` `scikit-learn` `MNE` `Matplotlib` |
+| **[Conference Management System](https://github.com/nekihlep/conference_app)** | Full-stack web application automating academic conference workflows with multi-role dashboards and real-time analytics. | `R` `Shiny` `SQLite` `JavaScript` |
+| **[3D Stellar Visualization](https://github.com/nekihlep/stellar-3d-visualization)** | Interactive 3D map of the night sky with 120k+ stars, enabling exploration of astronomical data through filtering and visual encoding. | `Python` `Plotly` `Streamlit` `pandas` |
 
 ### 📫 Let's Connect
 
