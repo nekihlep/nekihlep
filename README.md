@@ -34,7 +34,7 @@ I'm particularly interested in **applied statistics, predictive modeling, and ex
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[EEG Anomaly Detection](https://github.com/nekihlep/eeg-anomaly-detection)** |An binary classification ML pipeline that identifies anomalous brain activity patterns using autoencoder trained on healthy EEG data. Detected anomalies are statistically analyzed across 9+ mental disorders to quantify spectral power deviations in 6 frequency bands, visualized through comparative heatmaps and power profiles. |`Python` `scikit-learn` `pandas` `NumPy` `Matplotlib` `Seaborn` |
+| **[EEG Anomaly Detection](https://github.com/nekihlep/eeg-anomaly-detection)** |A hybrid ML pipeline that combines unsupervised representation learning (Autoencoders) with supervised classification (Random Forest) to detect psychiatric pathologies in EEG signals. The system extracts latent features from a bottleneck layer and leverages discovered spectral biomarkers  with deviations across 9+ disorders visualized via diagnostic heatmaps.". |`Python` `scikit-learn` `pandas` `NumPy` `Matplotlib` `Seaborn` |
 | **[Conference Management System](https://github.com/nekihlep/conference_app)** | Full-stack web application automating academic conference workflows with multi-role dashboards and real-time analytics. | `R` `Shiny` `SQLite` `JavaScript` |
 | **[3D Stellar Visualization](https://github.com/nekihlep/stellar-3d-visualization)** | Interactive 3D map of the night sky with 120k+ stars, enabling exploration of astronomical data through filtering and visual encoding. | `Python` `Plotly` `Streamlit` `pandas` |
 
